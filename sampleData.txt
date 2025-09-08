@@ -1,0 +1,21 @@
+Thu Jul 25 09:03:00 2024: Access-Reject for user senthur stationid 62a3daad223c from etlr1.eduroam.org (Request Denied) to iitm_IdP_SP (103.158.42.15)
+Thu Jul 25 09:03:00 2024: F-TICKS/eduroam/1.0#REALM=#VISCOUNTRY=IN#VISINST=iitm_IdP_SP#CSI=62a3daad28c4cf87c03b21b006a79fb5d67cf1fa4aac00032d9d262c47471d9#RESULT=FAIL#
+Thu Jul 25 09:03:00 2024: Access-Accept for user qiz208861@iitd.ac.in stationid 0a-ca-01-0a-30-40 cui 058f15a88b54f18a3b66c72ad8828641aa0cb085 from iitd_IdP_SP to etlr1.eduroam.org (192.87.106.34)
+Thu Jul 25 09:03:01 2024: Access-Accept for user im18rs098@iiserkol.ac.in stationid a6-62-eb-ae-8c-6e from iiserkol_IdP_SP to etlr1.eduroam.org (192.87.106.34) operator 1ufl.edu
+Thu Jul 25 09:03:02 2024: radudpget: got packet from wrong or unknown UDP peer 14.139.123.36, ignoring
+
+Thu Jul 25 09:03:02 2024: Access-Reject for user abhijit@iitm.ac.in stationid be:fd:1f:e2:d7:9f from iitm_IdP_SP to iisc_IdP_SP (14.139.128.80)
+Thu Jul 25 09:03:02 2024: F-TICKS/eduroam/1.0#REALM=iitm.ac.in#VISCOUNTRY=IN#VISINST=iisc_IdP_SP#CSI=be:fd:1f:8c11a7cfafbd936b5867e3b687cc222e21347ba626c03b5a8ae741#RESULT=FAIL#
+Thu Jul 25 09:03:03 2024: Access-Reject for user 23113108 stationid 5a-95-f3-1e-27-3e from etlr1.eduroam.org (Request Denied) to iitr_IdP_SP (103.37.200.195)
+Thu Jul 25 09:03:03 2024: F-TICKS/eduroam/1.0#REALM=#VISCOUNTRY=IN#VISINST=iitr_IdP_SP#CSI=5a-95-f3-024cc6f7d6128cbd8299915f7682a553158f481aed15d9ccd4a4fe#RESULT=FAIL#
+Thu Jul 25 09:03:04 2024: Access-Accept for user 186121031@iitg.ac.in stationid 2034FB6A3B35 from IITGUWAHATI_IdP_SP to etlr1.eduroam.org (192.87.106.34)
+Thu Jul 25 09:03:05 2024: Access-Accept for user concetta.damato@unitn.it stationid A0781791AB55 from etlr1.eduroam.org to iitb_IdP_SP (103.21.126.115)
+Thu Jul 25 09:03:05 2024: F-TICKS/eduroam/1.0#REALM=unitn.it#VISCOUNTRY=IN#VISINST=iitb_IdP_SP#CSI=A0781791Ae963781b9b39a4b29d589f93a64346eeeaa0212c803e6c9d49c1c4#RESULT=OK#
+Thu Jul 25 09:03:05 2024: Access-Reject for user senthur stationid 62a3daad223c from etlr1.eduroam.org (Request Denied) to iitm_IdP_SP (103.158.42.15)
+Thu Jul 25 09:03:05 2024: F-TICKS/eduroam/1.0#REALM=#VISCOUNTRY=IN#VISINST=iitm_IdP_SP#CSI=62a3daad28c4cf87c03b21b006a79fb5d67cf1fa4aac00032d9d262c47471d9#RESULT=FAIL#
+Thu Jul 25 09:03:05 2024: radudpget: got packet from wrong or unknown UDP peer 14.139.123.36, ignoring
+Thu Jul 25 09:03:05 2024: Access-Accept for user s2561059@ed.ac.uk stationid ea-b4-1f-2b-fb-45 from etlr1.eduroam.org to iitd_IdP_SP (103.27.9.180) operator 1iitd.ac.in
+Thu Jul 25 09:03:05 2024: F-TICKS/eduroam/1.0#REALM=ed.ac.uk#VISCOUNTRY=IN#VISINST=iitd_IdP_SP#CSI=ea-b4-1f-cedf18f31a38fa259e2fd3f1afda62898a7420453ea2852f4c1bb9#RESULT=OK#
+Thu Jul 25 09:03:06 2024: Access-Accept for user pmehrotra@iitd.ac.in stationid B6-74-1D-FF-12-07 cui 1d46bc10eec90fd1ff072ee9bd9bf2658f83cd87 from iitd_IdP_SP to icgeb_IdP_SP (14.139.62.215)
+Thu Jul 25 09:03:06 2024: F-TICKS/eduroam/1.0#REALM=iitd.ac.in#VISCOUNTRY=IN#VISINST=icgeb_IdP_SP#CSI=B6-74-1D-f9ecd48c241925e3313304bb616e18fd0deb8ea380b8e160950e29#RESULT=OK#
+Thu Jul 25 09:03:07 2024: Access-Accept (response to Status-Server) from _self_ to etlr2.eduroam.org (130.225.242.109)
